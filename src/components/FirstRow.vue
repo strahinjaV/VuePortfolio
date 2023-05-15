@@ -4,6 +4,7 @@
         <div class="row center-text">
           <h1 class="bigText">Strahinja Vidovic</h1>
           <p class="smallText">FRONT END SOFTWARE ENGINEER</p>
+          <p>Adding test text</p>
         </div>
       </div>
     </section>
